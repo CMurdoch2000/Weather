@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created By Callum Macleod Murdoch - S1828149 -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_Glasgow"
+        android:title="@string/menu_Glasgow"
+        android:orderInCategory="100" />
+    <item
+        android:id="@+id/menu_London"
+        android:title="@string/menu_London"
+        android:orderInCategory="101" />
+    <item
+        android:id="@+id/menu_NewYork"
+        android:title="@string/menu_NewYork"
+        android:orderInCategory="102" />
+    <item
+        android:id="@+id/menu_Oman"
+        android:title="@string/menu_Oman"
+        android:orderInCategory="103" />
+    <item
+        android:id="@+id/menu_Mauritius"
+        android:title="@string/menu_Mauritius"
+        android:orderInCategory="104" />
+    <item
+        android:id="@+id/menu_Bangladesh"
+        android:title="@string/menu_Bangladesh"
+        android:orderInCategory="105" />
+    <item
+        android:id="@+id/menu_Johannesburg"
+        android:title="@string/menu_Johannesburg"
+        android:orderInCategory="106" />
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GCU World Weather Forecast</string>
+    <string name="menu_Glasgow">Glasgow</string>
+    <string name="menu_London">London</string>
+    <string name="menu_NewYork">New York</string>
+    <string name="menu_Oman">Oman</string>
+    <string name="menu_Mauritius">Mauritius</string>
+    <string name="menu_Bangladesh">Bangladesh</string>
+    <string name="menu_Johannesburg">Johannesburg</string>
+</resources>
